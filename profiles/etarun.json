@@ -1,0 +1,67 @@
+{
+  "name": "Tarun Eswar",
+  "headline": null,
+  "location": null,
+  "photoUrl": null,
+  "profileUrl": "https://www.linkedin.com/in/etarun",
+  "about": "I'm currently a student at the Washington University in St. Louis, primarily interested in computer science and math. I'm highly specialized in development technologies (fullstack, ai, devops) and looking to continue gaining more experience.",
+  "experiences": [
+    {
+      "title": "Report this profile",
+      "company": null,
+      "duration": null,
+      "location": null,
+      "description": null
+    },
+    {
+      "title": "I am happy to announce that I will be interning with Cabanne CDC this summer through the St. Louis Fellows Program. I will have the opportunity to…",
+      "company": "I am happy to announce that I will be interning with Cabanne CDC this summer through the St. Louis Fellows Program. I will have the opportunity to…",
+      "duration": null,
+      "location": null,
+      "description": null
+    },
+    {
+      "title": "I strive to build great products out of love, care, and curiosity.",
+      "company": "I yearn to carve my own path—to choose my career not out of fear or anxiety.",
+      "duration": null,
+      "location": null,
+      "description": "I yearn to carve my own path—to choose my career not out of fear or anxiety. But… Liked by Tarun Eswar"
+    },
+    {
+      "title": "I'm excited to announce that I will be joining Codomax as a data science intern this summer in Worcester, MA!",
+      "company": "A special thanks to Dr. Shane Byrne…",
+      "duration": null,
+      "location": null,
+      "description": "Liked by Tarun Eswar"
+    },
+    {
+      "title": "Retail Associate",
+      "company": "Staples",
+      "duration": "Oct 2023 - Aug 2024",
+      "location": null,
+      "description": "Shrewsbury, Massachusetts, United States Customer Service and Inventory Management"
+    }
+  ],
+  "education": [
+    {
+      "school": "Report this profile",
+      "degree": null,
+      "years": null,
+      "fieldOfStudy": null
+    },
+    {
+      "school": "I am happy to announce that I will be interning with Cabanne CDC this summer through the St. Louis Fellows Program. I will have the opportunity to…",
+      "degree": "I am happy to announce that I will be interning with Cabanne CDC this summer through the St. Louis Fellows Program. I will have the opportunity to…",
+      "years": null,
+      "fieldOfStudy": null
+    },
+    {
+      "school": "I strive to build great products out of love, care, and curiosity.",
+      "degree": "I yearn to carve my own path—to choose my career not out of fear or anxiety.",
+      "years": null,
+      "fieldOfStudy": null
+    }
+  ],
+  "skills": [],
+  "scrapedAt": "2025-03-30T18:47:16.996Z"
+}
